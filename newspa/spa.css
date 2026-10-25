@@ -1,0 +1,213 @@
+.main{
+    height: 2500px;
+    width: 100%;
+    background-color: white;
+}
+.sub1{
+    height: 70px;
+    width: 100%;
+    background-color: white;
+}
+.div1{
+    height: 70px;
+    width: 20%;
+    background-color: white;
+    float: left;
+}
+.div2{
+    height: 70px;
+    width: 70%;
+    background-color: white;
+    float: left;
+}
+.div3{
+    height: 70px;
+    width: 10%;
+    background-color: white;
+    float: left;
+}
+.list{
+    display: inline;
+    padding-left: 20px;
+}
+.sub2{
+    height: 500px;
+    width: 100%;
+    background-image: url(blonde.jpg);
+    background-size: cover;
+    color: white;
+}
+.b1{
+    color: white;
+    background-color: black;
+    border: 2px solid black;
+    padding: 15px;
+}
+.div4{
+    text-align: center;
+    padding-top: 70px;
+}
+.p1{
+    font-size: 60px;
+}
+.div5{
+    height: 260px;
+    width: 28%;
+    background-color: aliceblue;
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+    margin-right: 2%;
+}
+.div6{
+    height: 260px;
+    width: 30%;
+    background-color: aliceblue;
+    float: left;
+    
+}
+.div7{
+    height: 260px;
+    width: 28%;
+    background-color: aliceblue;
+    float: left;
+    margin-right: 5%;
+    text-align: center;
+    margin-left: 2%;
+}
+.blonde{
+    height: 260px;
+    width: 100%;
+}
+.read{
+    color: green;
+    font-family: serif;
+}
+.sub3{
+    height: 260px;
+    width: 100%;
+    background-color: white;
+    margin-top: 50px;
+}
+.sub4{
+    height: 300px;
+    width: 100%;
+    background-color: white;
+    margin-top: 50px;
+    text-align: center;
+}
+.div8{
+    height: 50px;
+    width: 100%;
+    background-color: white;
+    margin-bottom: 50px;
+}
+.div9{
+    height: 200px;
+    width: 20%;
+    background-color: aliceblue;
+    float: left;
+    margin-left: 15%;
+    margin-right: 5%;
+
+}
+.div10{
+    height: 200px;
+    width: 20%;
+    background-color: aliceblue;
+    float: left;
+}
+.div11{
+    height: 200px;
+    width: 20%;
+    background-color: aliceblue;
+    float: left;
+    margin-right: 15%;
+    margin-left: 5%;
+}
+.sub4{
+    height: 430px;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+}
+.div12{
+    height: 400px;
+    width: 60%;
+    float: left;
+    position: relative;
+    left: 50px;
+
+}
+.div13{
+    height: 400px;
+    width: 40%;
+    background-color: aliceblue;
+    float: left;
+    position: relative;
+    right: 150px;
+    top: 50px;
+}
+.sub5{
+    height: 500px;
+    width: 100%;
+    background-color: white;
+}
+.sub6{
+    background-image: url(orangebg.jpg);
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    margin-top: 100px;
+}
+.div14{
+    padding-top: 50px;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+.sub7{
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    color: darkgray;
+}
+.div15{
+    height: 200px;
+    width: 20%;
+    background-color: black;
+    float: left;
+    margin-left: 15%;
+    margin-right: 5%;
+}
+.div16{
+    height: 200px;
+    width: 20%;
+    background-color: black;
+    float: left;
+}
+.div17{
+    height: 200px;
+    width: 20%;
+    background-color: black;
+    float: left;
+    margin-right: 15%;
+    margin-left: 5%;
+}
+.rel{
+    position:  relative;
+    left: 110px;
+    bottom: 88px;
+}
+.inp{
+    background-color: black;
+    border: 1px solid darkgray;
+    padding: 5px;
+}
+.bt{
+    padding: 5px;
+    background-color: green;
+    position: relative;
+    right: 5px;
+    border: 1px solid green;
+}
